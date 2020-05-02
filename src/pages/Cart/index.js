@@ -58,7 +58,7 @@ function Cart({ cart }) {
       <footer>
         <button type="button">Finalizar pedido</button>
         <Total>
-          <span>TOTAL</span>
+          <span>TOTAL Carrinho</span>
           <strong>R$1920,28</strong>
         </Total>
       </footer>
