@@ -1,7 +1,7 @@
+![RocketShoes](.github/rocketShoes)
+
 <h3 align="center">Rocketshoes - Frontend</h3>
 <p align="center">ReactJS - Redux - Redux Saga</p>
-
-![RocketShoes](.github/rocketShoes)
 
 ## :rocket: Projeto
 
