@@ -1,5 +1,4 @@
 <h3 align="center">Rocketshoes - Frontend</h3>
-
 <p align="center">ReactJS - Redux - Redux Saga</p>
 
 ## :rocket: Projeto
@@ -17,4 +16,4 @@ RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicaç
 
 ### Tela da aplicação - Resultado
 
-![RocketShoes](.githuh/rocketShoes.png)
+![RocketShoes](.github/rocketShoes)
