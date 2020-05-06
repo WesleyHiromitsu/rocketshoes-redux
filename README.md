@@ -1,4 +1,6 @@
-![RocketShoes](.github/rocketShoes)
+<h1 align="center">
+  <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
 
 <h3 align="center">Rocketshoes - Frontend</h3>
 <p align="center">ReactJS - Redux - Redux Saga</p>
@@ -8,6 +10,8 @@
 Projeto do bootcamp GoStack - Rocketseat, utilizando **ReactJS, Redux, Redux Saga, json-server e reactotron**.
 
 RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicação mobile podem ser usadas pelos usuários que querem efetuarem compras de maneira simples e fácil.
+
+![RocketShoes](.github/rocketShoes)
 
 ## Instalação e execução
 
